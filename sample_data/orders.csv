@@ -1,0 +1,8 @@
+order_id,vendor,item,quantity,unit_price,status
+1001,Boeing,Titanium Bolts,500000,0.85,pending
+1002,French's Factory,Mustard Packets,2000000,0.02,pending
+1003,ACME Corp,Widget A,300,45.00,pending
+1004,Boeing,Carbon Fiber Panels,1200000,220.00,pending
+1005,French's Factory,Ketchup Packets,800000,0.03,pending
+1006,ACME Corp,Widget B,50,120.00,pending
+1007,Generic Supplier,Office Chairs,75,250.00,pending
